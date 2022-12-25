@@ -1,0 +1,3 @@
+C:/Users/Computer/OneDrive/NCCFinalProject/BankClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Computer/OneDrive/NCCFinalProject/BankClient/cmake-build-debug/CMakeFiles/BankClient.dir
+C:/Users/Computer/OneDrive/NCCFinalProject/BankClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

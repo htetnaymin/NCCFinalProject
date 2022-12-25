@@ -1,0 +1,6 @@
+Htet Nay Min|123|100000
+HNM|321|500000
+hnm|hnm|28970
+test|test|100000
+hnm|abc|100000
+htetnaymin@gmail.com|123|100000
